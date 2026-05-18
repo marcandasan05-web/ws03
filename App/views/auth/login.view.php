@@ -5,7 +5,7 @@
 <section class="container mx-auto px-4">
     <div class="bg-white auth-card rounded-lg shadow-md">
         <h2 class="text-3xl font-bold text-center mb-2 text-primary-brand">Welcome Back</h2>
-        <p class="text-center text-gray-500 mb-6">Sign in to manage postings on RightJob</p>
+        <p class="text-center text-gray-500 mb-6">Sign in to manage postings on JobPH</p>
 
         <?php if (!empty($errors['auth'])) : ?>
             <div class="message-error"><?= e($errors['auth']) ?></div>
@@ -36,6 +36,3 @@
 </section>
 
 <?= loadPartial('footer') ?>
-
-
-

@@ -4,7 +4,7 @@
 
 <section class="container mx-auto px-4">
     <div class="bg-white auth-card rounded-lg shadow-md">
-        <h2 class="text-3xl font-bold text-center mb-2 text-primary-brand">Join RightJob</h2>
+        <h2 class="text-3xl font-bold text-center mb-2 text-primary-brand">Join JobPH</h2>
         <p class="text-center text-gray-500 mb-6">Create your account to apply or post jobs</p>
 
         <form method="POST" action="<?= url('/register') ?>">

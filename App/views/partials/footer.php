@@ -4,7 +4,7 @@
             <div class="flex items-center gap-3">
                 <i class="fa-solid fa-briefcase text-3xl brand-logo"></i>
                 <div>
-                    <h3 class="text-xl font-bold m-0">RightJob</h3>
+                    <h3 class="text-xl font-bold m-0">JobPH</h3>
                     <p class="text-gray-300 text-sm mt-1">Careers done right, every single day.</p>
                 </div>
             </div>
@@ -19,13 +19,11 @@
     <div class="copy-right">
         <hr class="border-blue-800 my-4 w-full opacity-30">
         <p class="text-xs text-center text-slate-700 pb-2">
-            &copy; <?= date('Y') ?> RightJob. All rights reserved.
+            &copy; <?= date('Y') ?> JobPH. All rights reserved.
         </p>
     </div>
 </footer>
 
 </body>
+
 </html>
-
-
-
