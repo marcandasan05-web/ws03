@@ -1,0 +1,17 @@
+{
+    "name": "zedrickandasan/wso3",
+    "version": "1.0.0",
+    "description": "Job seeker application",
+    "authors" : [
+        {
+            "name": "Zedrick Andasan",
+            "email": "marcandasan05@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
